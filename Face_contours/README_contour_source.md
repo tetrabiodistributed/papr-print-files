@@ -1,5 +1,5 @@
 # Contour Sourcing
-================
+-----------------
 
 These contours were derived using NIOSH headforms, referenced below.  Once the headform had been loaded into Fusion 360, the following procedure was used to create the contours:
 
