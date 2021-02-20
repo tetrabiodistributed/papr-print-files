@@ -1,0 +1,10 @@
+2021-02-06
+Burhan Qaddoumi
+
+***offset from interior contour (of 2D sketch)***
+
+- LRG_face_surface-full.STEP = 4mm offset from interior contour (smaller overall area)
+- LRG_face_surface-full_5mm.STEP = 5mm offset from interior contour
+- MED_face_surface-full.STEP = 5mm offset from interior contour
+- SML_face_surface-full.STEP = 5mm offset from interior contour
+
