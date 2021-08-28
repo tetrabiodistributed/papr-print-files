@@ -1,3 +1,4 @@
 # ignoring command line stuff from the mac and emacs
 .DS_Store
 *~
+STLs/96 mm fan_box/Fan Box.zip
