@@ -1,3 +1,7 @@
 # ignoring command line stuff from the mac and emacs
 .DS_Store
 *~
+*.3mf
+*.gcode
+
+
