@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Stealth Filter Interface v4.step',
-/* time_stamp */ '2023-09-09T10:13:03-07:00',
+/* name */ 'Stealth Filter Interface.step',
+/* time_stamp */ '2023-09-16T11:13:43-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
